@@ -1,0 +1,6 @@
+framework module Pods_KXLiuPod1_Example {
+  umbrella header "Pods-KXLiuPod1_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

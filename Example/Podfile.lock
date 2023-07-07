@@ -1,0 +1,16 @@
+PODS:
+  - KXLiuPod1 (0.1.0)
+
+DEPENDENCIES:
+  - KXLiuPod1 (from `../`)
+
+EXTERNAL SOURCES:
+  KXLiuPod1:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KXLiuPod1: 66f9feeeb4aa212f99886533775ccfd32b5d9c7a
+
+PODFILE CHECKSUM: bb796023c95e6a63bf23d0ddb444c63b49201ba2
+
+COCOAPODS: 1.12.1
