@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'KXLiuPod1_Example' do
+  pod 'KXLiuPod1', :path => '../'
+
+  target 'KXLiuPod1_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
